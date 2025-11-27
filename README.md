@@ -1,5 +1,8 @@
 # CARE Transformer: Mobile-Friendly Linear Visual Transformer via Decoupled Dual Interaction
 
+Official PyTorch implementation of the paper **CARE Transformer: Mobile-Friendly Linear Visual Transformer via Decoupled Dual Interaction**
+
+
 <table align="center">
   <tr>
     <td align="center">
@@ -83,6 +86,7 @@ The results will be around the following.
 | CARE-S2 | LA+CONV |  1.9  |    19.5    |      2.0      |      9.4      |     20.4     |     82.1     |
 
 ## Bibtex
+If you find **CARE Transformer: Mobile-Friendly Linear Visual Transformer via Decoupled Dual Interaction** useful, please cite:   
 
 ```
 @inproceedings{zhou2025care,
