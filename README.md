@@ -1,6 +1,6 @@
-# [CARE Transformer: Mobile-Friendly Linear Visual Transformer via Decoupled Dual Interaction](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_CARE_Transformer_Mobile-Friendly_Linear_Visual_Transformer_via_Decoupled_Dual_Interaction_CVPR_2025_paper.pdf)
+# [CARE Transformer: Mobile-Friendly Linear Visual Transformer via Decoupled Dual Interaction](https://arxiv.org/pdf/2411.16170)
 
-Official PyTorch implementation of the paper **[CARE Transformer: Mobile-Friendly Linear Visual Transformer via Decoupled Dual Interaction](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_CARE_Transformer_Mobile-Friendly_Linear_Visual_Transformer_via_Decoupled_Dual_Interaction_CVPR_2025_paper.pdf)**
+Official PyTorch implementation of the paper **[CARE Transformer: Mobile-Friendly Linear Visual Transformer via Decoupled Dual Interaction](https://arxiv.org/pdf/2411.16170)**
 
 
 <table align="center">
